@@ -19,7 +19,7 @@
     {"id": 17, "title": "hello1", "nftimage": "https://i.imgur.com/ZfT36o9.png"},
     {"id": 18, "title": "hello1", "nftimage": "https://i.imgur.com/guav83X.png"},
     {"id": 19, "title": "hello1", "nftimage": "https://i.imgur.com/ZfT36o9.png"},
-    {"id": 20, "title": "hello1", "nftimage": "https://i.imgur.com/guav83X.png"},
+    {"id": 20, "title": "hello1", "nftimage": "https://i.imgur.com/guav83X.png"}
   ],
   "profile": {
     "name": "terrapin-db"
